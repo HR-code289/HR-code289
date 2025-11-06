@@ -5,6 +5,11 @@ Jestem studentem informatyki
 ![Static Badge](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/c%2B%2B-%2300599C?style=for-the-badge)
 
+### Wybrane projekty 
+|projekty|opis|link|
+|--------|----|----|
+|Kuchnie świata|Prosty projekt html|https://github.com/HR-code289/Kuchnie-swiata|
+
 ### Kontakt
 [![Static Badge](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge)](mailto:hubert231105@gmail.com)
 
