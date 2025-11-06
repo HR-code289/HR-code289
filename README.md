@@ -15,5 +15,5 @@ Jestem studentem informatyki
 
 ### Statystyki
 ![Moje statystyki](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=HR-code289&show_icons=true&theme=onedark)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HR-code289&size_weight=0.5&count_weight=0.5)
 
